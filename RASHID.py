@@ -1,2 +1,2 @@
-from Rashid.787878 import Hxw_Main
+from rashid import Hxw_Main
 Hxw_Main()
