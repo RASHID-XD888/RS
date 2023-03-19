@@ -1,2 +1,2 @@
-from rashid import Hxw_Main
+from RASHID import Hxw_Main
 Hxw_Main()
